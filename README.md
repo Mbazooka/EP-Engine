@@ -1,2 +1,3 @@
-# Event Processing Engine
-In this project, I'll be attempting to make a toy deterministic, lock-free, zero copy event processing engine. 
+# A library for event processing
+In this project, I'll be attempting to make a low-latency event processing library. I will start with a naive implementation, perform benchmarks and gradually improve.
+
